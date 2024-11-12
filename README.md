@@ -1,3 +1,3 @@
 # ui-components
 
-Initial commit
+UI components library
